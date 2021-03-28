@@ -1,7 +1,8 @@
 {
-    "kty": "oct",
-    "use": "sig",
-    "kid": "HS256",
-    "k": "bpn_JGnEckmUeSSulKMY7L0ko3n2QvYkhfYHRYomvklFk39qcpEn78AxajgCy0Di-udgEkdnVZKo77kx6Mdzp9JpyOjaJ4lReZcnbEUYML0U9RSr8T92_eR6UxlLKm6zt8c3aVh8F8lWKsHT_JyB9g6F7oYCIpXwPPWfGVKW-NmP2tgnS0ClFKvhf3fKcBcPk6vce9tuBTxlc6gSmpf3CEMf1nJSks4Bo6ydSWSp9NfeuJZlVWmNFjdfjZTraK2ZUOjn5IXY21of7yBM2JrWQj8UDDV7C41qBP5g6XDnk25wfzFpQN2XcxS5ox0KtYoYCIoVpbXJxTt115uugp_Ieg",
-    "alg": "HS256"
+  "kty": "oct",
+  "use": "sig",
+  "kid": "HS256",
+  "k": "HIf256y09M7bN7ANzAOGNgGX-qdHeom2wQNNIhzp4_I",
+  "alg": "HS256"
 }
+
